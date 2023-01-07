@@ -1,4 +1,4 @@
-// Section 13
+
 // Declare Classes and Objects
 #include <iostream>
 #include <string>
