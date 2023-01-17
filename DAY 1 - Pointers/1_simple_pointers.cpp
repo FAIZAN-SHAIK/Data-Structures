@@ -1,4 +1,4 @@
-// Section 12
+
 // Simple pointers
 
 #include <iostream>
